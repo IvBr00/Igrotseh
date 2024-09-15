@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_rock_big",
-    "path":"sprites/spr_rock_big/spr_rock_big.yy",
+    "name":"spr_ukr",
+    "path":"sprites/spr_ukr/spr_ukr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
